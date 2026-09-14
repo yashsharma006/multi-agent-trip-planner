@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Sea View Resort",
+        "city": "Goa",
+        "price": 2500,
+        "rating": 4.5,
+        "location": "Calangute"
+    },
+    {
+        "name": "Blue Ocean Hotel",
+        "city": "Goa",
+        "price": 3500,
+        "rating": 4.8,
+        "location": "Baga"
+    },
+    {
+        "name": "Budget Stay",
+        "city": "Goa",
+        "price": 1800,
+        "rating": 4.1,
+        "location": "Panjim"
+    },
+    {
+        "name": "Royal Palace",
+        "city": "Jaipur",
+        "price": 3000,
+        "rating": 4.6,
+        "location": "MI Road"
+    },
+    {
+        "name": "Pink City Hotel",
+        "city": "Jaipur",
+        "price": 2200,
+        "rating": 4.3,
+        "location": "Bani Park"
+    },
+    {
+        "name": "Snow Peak Resort",
+        "city": "Manali",
+        "price": 3200,
+        "rating": 4.7,
+        "location": "Mall Road"
+    },
+    {
+        "name": "Mountain View Inn",
+        "city": "Manali",
+        "price": 2400,
+        "rating": 4.4,
+        "location": "Old Manali"
+    }
+]

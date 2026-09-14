@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Britto's",
+        "city": "Goa",
+        "cuisine": "Seafood",
+        "price": 1000,
+        "rating": 4.7,
+        "location": "Baga Beach"
+    },
+    {
+        "name": "Fisherman's Wharf",
+        "city": "Goa",
+        "cuisine": "Goan",
+        "price": 1200,
+        "rating": 4.8,
+        "location": "Cavelossim"
+    },
+    {
+        "name": "Cafe Chocolatti",
+        "city": "Goa",
+        "cuisine": "Cafe",
+        "price": 700,
+        "rating": 4.6,
+        "location": "Candolim"
+    },
+    {
+        "name": "Laxmi Misthan Bhandar",
+        "city": "Jaipur",
+        "cuisine": "Rajasthani",
+        "price": 600,
+        "rating": 4.7,
+        "location": "Johari Bazaar"
+    },
+    {
+        "name": "Johnson's Cafe",
+        "city": "Manali",
+        "cuisine": "Multi Cuisine",
+        "price": 900,
+        "rating": 4.8,
+        "location": "Mall Road"
+    }
+]
